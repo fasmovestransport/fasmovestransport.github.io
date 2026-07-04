@@ -1,4 +1,4 @@
-# FAS Moves Transport
+# FASMoves Transport
 
 This repository contains a simple static website for FAS Moves Transport that is ready to be published on GitHub Pages.
 
