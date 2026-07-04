@@ -36,9 +36,14 @@ a { color: inherit; text-decoration: none; }
     padding: 1rem 0;
 }
 .navbar-brand {
-    font-size: 1.2rem;
-    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
     color: var(--primary-dark);
+}
+.brand-logo {
+    display: block;
+    height: 42px;
+    width: auto;
 }
 .navbar-menu {
     display: flex;
